@@ -1,17 +1,12 @@
                         Bienvenido a mi Github! Estoy aprendiendo React y me gusta Css. Explorando el mundo del Diseño🦋 
-<h1 align="center">Hi Human 🌻🎈 I'm Juliana</h1>
+<h2 align="center">Hi Human 🌻🎈 I'm Juliana</h2>
 <h3 align="center">A frontend developer Baby. </h3>
 
 - 🔭 I’m currently working on **learning programming languages and practice with differents projects**
-
 - 🌱 I’m currently learning **React and UI design**
-
 - 👯 I’m looking to collaborate on **Desing, Coding. Educational and social projects**
-
 - 😍 I really like **The system desing with react, UI desing and Css**
-
 - 📫 How to reach me **jimenezor.03@gmail.com**
-
 - ⚡ Fun fact **Pluzze lover and play the piano**
 
 <h3 align="left">Connect with me:</h3>
