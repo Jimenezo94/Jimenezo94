@@ -1,5 +1,5 @@
                               Bienvenido a mi Github! Estoy aprendiendo React y me gusta Css. Explorando el mundo del Diseño🦋 
-<h1 align="center">Hi Human 🌻🎈, I'm Juliana</h1>
+<h1 align="center">Hi Human 🌻🎈 I'm Juliana</h1>
 <h3 align="center">A frontend developer Baby. </h3>
 
 - 🔭 I’m currently working on **learning programming languages and practice with differents projects**
