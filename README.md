@@ -1,13 +1,13 @@
-                        Bienvenido a mi Github! Estoy aprendiendo React y me gusta Css. Explorando el mundo del Diseño🦋 
+                        Bienvenido a mi Github! Estoy aprendiendo React. Explorando el mundo del Diseño🦋 
 <h2 align="center">Hi Human 🌻🎈 I'm Juliana</h2>
 <h3 align="center">A frontend developer Baby. </h3>
 
-<p> Actualmente domino y sigo aprendiendo Herramientas de desarrollo como: <p>
+<p> Actualmente domino y estoy en constante aprendizaje de Herramientas de desarrollo como: <p>
    <ul>
-  <li> 📝 Html </li>
-  <li> 🎨 Css </li>
-  <li> ⚙ Javascript </li>
-  <li> 🛠 React </li>
+  <li> 📝 HTML </li>
+  <li> 🎨 CSS </li>
+  <li> ⚙ JAVASCRIPT </li>
+  <li> 🛠 REACT </li>
  </ul>
 
 
