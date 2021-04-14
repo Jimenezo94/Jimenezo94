@@ -2,18 +2,17 @@
 <h2 align="center">Hi Human 🌻🎈 I'm Juliana</h2>
 <h3 align="center">A frontend developer Baby. </h3>
 
-
+<p> Actualmente sigo domino y sigo aprendiendo Herramientas de desarrollo como: <p>
    <ul>
-  <li 📝> Html </li>
-  <li 🎨> css </li>
-  <li ⚙> Javascript </li>
-  <li 🛠> React </li>
+  <li> 📝 Html </li>
+  <li> 🎨 Css </li>
+  <li> ⚙ Javascript </li>
+  <li> 🛠 React </li>
  </ul>
 
-- 🔭 I’m currently working on **learning programming languages and practice with differents projects**
+
 - 🌱 I’m currently learning **React and UI design**
-- 👯 I’m looking to collaborate on **Desing, Coding. Educational and social projects**
-- 😍 I really like **The system desing with react, UI desing and Css**
+- 😍 Disfruto de aprender sobre sistemas de diseños, UI design, and css 
 - 📫 How to reach me **jimenezor.03@gmail.com**
 - ⚡ Fun fact **Pluzze lover and play the piano**
 
