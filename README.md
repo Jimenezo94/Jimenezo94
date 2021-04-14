@@ -1,4 +1,4 @@
-                        Bienvenido a mi Github! Explorando el mundo del Codigo y el Diseño🦋 
+                                 Bienvenido a mi Github! Explorando el mundo del Codigo y el Diseño🦋 
 <h2 align="center">Hi Human 🌻🎈 I'm Juliana</h2>
 <h3 align="center">A frontend developer Baby. </h3>
 
