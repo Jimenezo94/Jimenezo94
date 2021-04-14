@@ -2,7 +2,7 @@
 <h2 align="center">Hi Human 🌻🎈 I'm Juliana</h2>
 <h3 align="center">A frontend developer Baby. </h3>
 
-<p> Actualmente sigo domino y sigo aprendiendo Herramientas de desarrollo como: <p>
+<p> Actualmente domino y sigo aprendiendo Herramientas de desarrollo como: <p>
    <ul>
   <li> 📝 Html </li>
   <li> 🎨 Css </li>
