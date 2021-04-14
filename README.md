@@ -10,7 +10,7 @@
   <li> 🛠 REACT </li>
  </ul>
 
-
+<hr> <hr>
 - 🌱 I’m currently learning **React and UI design**
 - 😍 Disfruto de aprender sobre sistemas de diseños, UI design, and css 
 - 📫 How to reach me **jimenezor.03@gmail.com**
