@@ -5,17 +5,17 @@
 <p> Actualmente domino y estoy en constante aprendizaje de Herramientas de desarrollo como: <p>
    <ul>
   <li> 📝 HTML </li>
-  <li> 🎨 CSS </li>
+  <li> 🎨 CSS (Sass, Grid-flexbox)</li>
   <li> ⚙ JAVASCRIPT </li>
   <li> 🛠 REACT </li>
  </ul>
 
  <hr>
  
-- 🌱 I’m currently learning **React and UI design**
-- 💗 Disfruto de aprender sobre sistemas de diseños, UI design, and css 
-- 📫 How to reach me **jimenezor.03@gmail.com**
-- ⚡ Fun fact **Pluzze lover and play the piano**
+- 🌱 Estoy aprendiendo **React and UI design**
+- 💗 Disfruto de aprender sobre Logica en programacion,sistemas de diseños, UI design, and css 
+- 📫 Puedes contactarme en mi email **jimenezor.03@gmail.com**
+- ⚡ Siempre me gusta **Armar rompecabezas, cuidar y hacer crecer mis plantas 🌿🌾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
