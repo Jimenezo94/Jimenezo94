@@ -11,11 +11,10 @@
  </ul>
 
  <hr>
- 
-- 🌱 Estoy aprendiendo **React and UI design**
-- 💗 Disfruto de aprender sobre Logica en programacion,sistemas de diseños, UI design, and css 
+
+- 💗 Disfruto de poder trabajar para generar un mundo mas justo y libre :)
 - 📫 Puedes contactarme en mi email **jimenezor.03@gmail.com**
-- ⚡ Siempre me gusta **Armar rompecabezas, cuidar y hacer crecer mis plantas 🌿🌾**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
