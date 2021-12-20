@@ -2,14 +2,6 @@
 <h2 align="center">Hi Human 🌻🎈 I'm Juliana</h2>
 <h3 align="center">A frontend developer Baby. </h3>
 
-<p> Actualmente domino y estoy en constante aprendizaje de Herramientas de desarrollo como: <p>
-   <ul>
-  <li> 📝 HTML </li>
-  <li> 🎨 CSS (Sass, Grid-flexbox)</li>
-  <li> ⚙ JAVASCRIPT </li>
-  <li> 🛠 REACT </li>
- </ul>
-
  <hr>
 
 - 💗 Disfruto de poder trabajar para generar un mundo mas justo y libre :)
