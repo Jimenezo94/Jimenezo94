@@ -4,7 +4,6 @@
 
  <hr>
 
-- 💗 Disfruto de poder trabajar para generar un mundo mas justo y libre :)
 - 📫 Puedes contactarme en mi email **jimenezor.03@gmail.com**
 
 
